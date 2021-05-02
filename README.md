@@ -22,4 +22,22 @@ public static class Main{
 }
 ```
 
+## 最近学习了git代码
+### git 本地仓库
+```
+git add .
+git commit --verbose
+git reset hard idnumber
+```
+
+### 远程仓库
+```
+git remote add origin git@github.com:xx/xx.git
+git branch -M main
+git push -u origin main
+```
+## 最后一句话鼓励自己
+> what we only fear is fear itself.
+
+> The impossible itself is " I'm possible ".
 
